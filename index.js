@@ -1,1 +1,2 @@
-// const loader = require()
+'use strict'
+;

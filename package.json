@@ -1,6 +1,6 @@
 {
   "name": "egg-cyd",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "eggPlugin": {
     "name": "cyd"
@@ -33,10 +33,6 @@
     "pkgfiles": "egg-bin pkgfiles",
     "autod": "autod"
   },
-  "files": [
-    "config",
-    "app.js"
-  ],
   "ci": {
     "version": "8, 10"
   },

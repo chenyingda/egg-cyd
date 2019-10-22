@@ -8,4 +8,6 @@
 exports.cyd = {
   username: 'cyd',
   password: '123456',
+  weight: 133,
+  height: 177,
 };
